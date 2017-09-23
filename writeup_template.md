@@ -15,7 +15,7 @@ The goals / steps of this project are the following:
 
 [image1]: ./examples/visualization.jpg "Visualization"
 [image2]: ./examples/image_org.png "Original image"
-[image2]: ./examples/image_norm.png" Grayscaled and Nomralized image"
+[image9]: ./examples/image_norm.png "Grayscaled and Nomralized image"
 [image3]: ./examples/random_noise.jpg "Random Noise"
 [image4]: ./examples/achtung_vorfahrt.thumbnail.jpg "Yield"
 [image5]: ./examples/baustelle.thumbnail.jpg "Road work"
@@ -60,7 +60,7 @@ As a first step, I decided to convert the images to grayscale because in a direc
 
 Here is an example of a traffic sign image before and after grayscaling.
 
-![alt text][image2]
+![alt text][image2] ![alt text][image9]
 
 As a last step, I normalized the image data to avoid bad conditioning of the training data and to to improve the numeric stability / performance of the model.
 
