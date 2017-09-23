@@ -58,7 +58,7 @@ Here is an exploratory visualization of the data set. First, an image example of
 
 As a first step, I decided to convert the images to grayscale because in a direct comparision with three color images, the prediction performance was higher.
 
-Here is an example of a traffic sign image before and after grayscaling.
+Here is an example of a traffic sign image before and after grayscaling & normalization.
 
 ![alt text][image2] ![alt text][image9]
 
