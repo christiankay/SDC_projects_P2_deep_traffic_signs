@@ -36,7 +36,7 @@ You're reading it! and here is a link to my [project code](https://github.com/ch
 
 ####1. Summary of the data set. 
 
-I used the pandas library to calculate summary statistics of the traffic
+I used the numpy library to calculate summary statistics of the traffic
 signs data set:
 
 * The size of training set is 34799
@@ -47,7 +47,7 @@ signs data set:
 
 ####2. Exploratory visualization of the dataset.
 
-Here is an exploratory visualization of the data set. First, an image example of each class/label of the data set is plotted with the numeric label according to the sign name provided by the excel sheet. Additionally, a bar graph shows the distribution of data with respect to the classes. Finally the minimum and maximum data/images per class are given.
+Here is an exploratory visualization of the data set. First, an image example of each class/label of the data set is plotted with the numeric label according to the sign name provided by a excel sheet. Additionally, a bar graph shows the distribution of the data with respect to the classes. Finally the minimum and maximum data/images per class are given.
 
 
 ![alt text][image1]
