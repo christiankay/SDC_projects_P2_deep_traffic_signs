@@ -14,7 +14,8 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./examples/visualization.jpg "Visualization"
-[image2]: ./examples/grayscale.jpg "Grayscaling"
+[image2]: ./examples/image_org.png "Original image"
+[image2]: ./examples/image_norm.png" Grayscaled and Nomralized image"
 [image3]: ./examples/random_noise.jpg "Random Noise"
 [image4]: ./examples/achtung_vorfahrt.thumbnail.jpg "Yield"
 [image5]: ./examples/baustelle.thumbnail.jpg "Road work"
