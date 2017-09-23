@@ -18,9 +18,9 @@ The goals / steps of this project are the following:
 [image3]: ./examples/random_noise.jpg "Random Noise"
 [image4]: ./examples/achtung_vorfahrt.thumbnail.jpg "Priority road"
 [image5]: ./examples/baustelle.thumbnail.jpg "Road work"
-[image6]: ./examples/images.thumbnail.jpg"Speed limit (30km/h)"
+[image6]: ./examples/images.thumbnail.jpg "Speed limit (30km/h)"
 [image7]: ./examples/Vorfahrt.thumbnail.jpg "Priority road"
-[image8]: ./examples/vorfahrt_an_naechster_kreuzung.thumbnail.jpg"Right-of-way at the next intersection"
+[image8]: ./examples/vorfahrt_an_naechster_kreuzung.thumbnail.jpg "Right-of-way at the next intersection"
 
 ## Rubric Points
 ###Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
